@@ -12,7 +12,7 @@ A simple Python script to scrape
 git clone https://github.com/radosimarmata/scraper_web.git
 ```
 ```
-cd detik-scraper
+cd scraper_web
 ```
 2. **Install requirement**
 ```
